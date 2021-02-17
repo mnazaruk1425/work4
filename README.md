@@ -2,3 +2,5 @@
 2.Edited from github IDE
 3.Edited 2 files in IDE
 4.Edded develop branch
+5.Alex chaged read me
+Changes from first branch
